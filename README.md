@@ -2,8 +2,8 @@
 <p align='center'> A fullstack developer with almost a decade of experience from struts to springboot, java 6 to java 17, jsp to jsx/tsx </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aemson&show_icons=true&count_private=true&theme=dark&hide=stars" width="450"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemson&langs_count=10&layout=compact&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aemson&show_icons=true&count_private=true&theme=dark&hide=stars&border_radius=30" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemson&langs_count=10&layout=compact&theme=dark&border_radius=30" width="350"></a>
 </p>
 
 - 🔭 I’m currently working on Kotlin with Arrow.io, Java, SpringBoot, React, TypeScript, Azure
